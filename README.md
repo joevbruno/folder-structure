@@ -9,7 +9,7 @@ A few thoughts on client-side folder structure in a large react / redux applicat
 
 + [Redux Folder Structure](https://github.com/rackt/redux/tree/master/examples/shopping-cart)
 + React Component in [React Toolbox](https://github.com/react-toolbox/react-toolbox/tree/dev/components/drawer)
-+ [Angular reference]('./angular.pdf')
++ [Angular reference]('https://github.com/joevbruno/folder-structure/blob/master/angular.pdf')
 
 #### Assumptions
 
