@@ -11,6 +11,15 @@ A few thoughts on client-side folder structure in a large react / redux applicat
 + React Component in [React Toolbox](https://github.com/react-toolbox/react-toolbox/tree/dev/components/drawer)
 + [Angular reference]('./angular.pdf')
 
+#### Assumptions
+
++ single Redux Store
++ single React Router
++ single bundle.js (?)
++ single styles.css (?)
+
+Does allow for multiple JS bundles and multiple css files
+
 ```
 
 v2/
